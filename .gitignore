@@ -1,0 +1,4 @@
+node_modules/
+my-clock-win32-x64/
+*.exe
+.DS_Store

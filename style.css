@@ -1,0 +1,12 @@
+/* style.css */
+body {
+  background-color: #fefaf2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+canvas {
+  background-color: #3c75b2;
+  border-radius: 50%;
+}
